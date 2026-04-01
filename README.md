@@ -10,3 +10,4 @@ This project involves analyzing a digital music store database using SQL to unco
 * PgAdmin4
 
 Schema- Music Store Database
+![MusicDatabaseSchema](https://github.com/SmitBhavsar008/SQL_Project_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png)
